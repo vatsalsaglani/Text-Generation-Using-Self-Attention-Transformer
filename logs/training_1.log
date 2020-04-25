@@ -1,0 +1,21 @@
+ERROR:root:
+            Error at Epoch 1: module 'torch.autograd' has no attribute 'Variabl'
+        
+ERROR:root:
+            Error at Epoch 2: module 'torch.autograd' has no attribute 'Variabl'
+        
+ERROR:root:
+            Error at Epoch 3: module 'torch.autograd' has no attribute 'Variabl'
+        
+ERROR:root:
+            Error at Epoch 4: module 'torch.autograd' has no attribute 'Variabl'
+        
+ERROR:root:
+            Error at Epoch 5: module 'torch.autograd' has no attribute 'Variabl'
+        
+ERROR:root:
+            Error at Epoch 6: module 'torch.autograd' has no attribute 'Variabl'
+        
+ERROR:root:
+            Error at Epoch 7: DataLoader worker (pid 24438) exited unexpectedly with exit code 1. Details are lost due to multiprocessing. Rerunning with num_workers=0 may give better error trace.
+        
